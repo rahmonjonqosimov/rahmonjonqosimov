@@ -5,6 +5,14 @@ Currently, I’m a second-year student at **Tashkent University of Information T
 
 ---
 
+## 👨‍💻 About Me  
+- 🔭 I’m currently working on **a Lawyer-Service platform**  
+- 🌱 I’m currently learning **GraphQL & Docker**  
+- 💬 Ask me about **React, Next.js, and MongoDB**  
+- 📫 How to reach me: **[rahmonjonqosimov@gmail.com](mailto:rahmonjonqosimov@gmail.com)**  
+
+---
+
 ## 🚀 Frontend Skills  
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -44,7 +52,39 @@ Currently, I’m a second-year student at **Tashkent University of Information T
 
 ---
 
+## 🌍 My Portfolio  
+Check out my projects on **[My Portfolio](https://your-portfolio-link.com)**  
+
+---
+
+## 🚀 Future Plans  
+- [ ] Learn **GraphQL**  
+- [ ] Explore **Docker & Kubernetes**  
+- [ ] Contribute to **Open Source Projects**  
+
+---
+
+## 📫 Contact Me  
+<p>
+  <a href="https://linkedin.com/in/rahmonjonqosimov">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rahmonjonqosimov">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:rahmonjonqosimov@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahmonjonqosimov&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmonjonqosimov&layout=compact&theme=radical" />
 </p>
+
+---
+
+![GitHub Snake animation](https://github.com/rahmonjonqosimov/rahmonjonqosimov/blob/output/github-contribution-grid-snake.svg)
