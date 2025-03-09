@@ -9,7 +9,7 @@ Currently, I’m a second-year student at **Tashkent University of Information T
 - 🔭 I’m currently working on **a Lawyer-Service platform**  
 - 🌱 I’m currently learning **GraphQL & Docker**  
 - 💬 Ask me about **React, Next.js, and MongoDB**  
-- 📫 How to reach me: **[rahmonjonqosimov@gmail.com](mailto:rahmonjonqosimov@gmail.com)**  
+- 📫 How to reach me: **[rahmonjonqosimov@gmail.com](mailto:qosimovrahmonjon0927@gmail.com)**  
 
 ---
 
@@ -53,7 +53,7 @@ Currently, I’m a second-year student at **Tashkent University of Information T
 ---
 
 ## 🌍 My Portfolio  
-Check out my projects on **[My Portfolio](https://your-portfolio-link.com)**  
+Check out my projects on **[My Portfolio](https://www.rahmonjon.uz)**  
 
 ---
 
@@ -66,13 +66,13 @@ Check out my projects on **[My Portfolio](https://your-portfolio-link.com)**
 
 ## 📫 Contact Me  
 <p>
-  <a href="https://linkedin.com/in/rahmonjonqosimov">
+  <a href="https://linkedin.com/in/rahmonjonqosimov](https://www.linkedin.com/in/qosimov-rahmonjon-181849306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/rahmonjonqosimov">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:rahmonjonqosimov@gmail.com">
+  <a href="mailto:qosimovrahmonjon0927@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -87,4 +87,22 @@ Check out my projects on **[My Portfolio](https://your-portfolio-link.com)**
 
 ---
 
-![GitHub Snake animation](https://github.com/rahmonjonqosimov/rahmonjonqosimov/blob/output/github-contribution-grid-snake.svg)
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
